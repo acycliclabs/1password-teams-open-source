@@ -722,3 +722,7 @@ https://micronaut.io/
 ### Crazy Marvin
 Crazy Marvin is a collective of open sourcerers that create chatbots and apps for many platforms.
 https://crazymarvin.com/
+
+### Acyclic Labs
+Acyclic Labs works on blockchain technology developing multiple open source projects on infrastructure, decentralised tech and fintech space.
+https://acycliclabs.com
